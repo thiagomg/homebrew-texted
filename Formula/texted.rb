@@ -2,8 +2,8 @@ class Texted < Formula
   desc "Markdown based blogging system where you own your content"
   homepage "https://thiagocafe.com/page/projects/"
   url "https://gitlab.com/thiagomg/texted.git",
-      tag:      "1.1.0",
-      revision: "e6b0e782420cdeea9bcf504dfa3091f58a5bc7ed"
+      tag:      "1.1.1",
+      revision: "661f542fa1392b65b818924dbd31a9c0112333cd"
   license "Apache-2.0"
   head "https://gitlab.com/thiagomg/texted.git", branch: "main"
 
