@@ -2,8 +2,8 @@ class Simplegrep < Formula
   desc "Grep alternative for those lazy to remember many command-line options"
   homepage "https://thiagocafe.com/page/projects/"
   url "https://gitlab.com/thiagomg/sgrep.git",
-      tag:      "1.0.2",
-      revision: "e59645c7efa7e5968fc5a4b4c0f8070135ebe27c"
+      tag:      "1.0.3",
+      revision: "c580efbf56cc32afc8b24c40da585f020b9b51f3"
   license "Apache-2.0"
   head "https://gitlab.com/thiagomg/sgrep.git", branch: "main"
 
