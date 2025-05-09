@@ -3,7 +3,7 @@ class Simplegrep < Formula
   homepage "https://thiagocafe.com/page/projects/"
   url "https://gitlab.com/thiagomg/sgrep.git",
       tag:      "1.0.9",
-      revision: "13138f4de0544dd4dced1e253c005dc772d74fa4"
+      revision: "8dc4b511a1b8ea932c822b6f1f4df6e04fd6179b"
   license "Apache-2.0"
   head "https://gitlab.com/thiagomg/sgrep.git", branch: "main"
 
